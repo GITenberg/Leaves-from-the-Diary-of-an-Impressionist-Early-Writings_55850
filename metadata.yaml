@@ -5,6 +5,9 @@ contributor:
     agent_name: Greenslet, Ferris
     gutenberg_agent_id: '48548'
     url: http://www.gutenberg.org/2009/agents/48548
+covers:
+- cover_type: archival
+  image_path: 55850-h/images/cover.jpg
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/368
     wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55850#Leaves-from-the-Diary-of-an-Impressionist-Early-Writings
 gutenberg_issued: '2017-10-30'
 gutenberg_type: Text
 identifiers:
